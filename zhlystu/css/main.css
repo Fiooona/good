@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.time2 {
+    float: right;
+    margin-right: 15%;
+    margin-top: -4%;
+}
+
+.login_main {
+    height: 430px;
+    width: 100%;
+    background: url(../imgs/bg_con.png) bottom center #32b5cb no-repeat;
+}
+
+.login_wind {
+    border-radius: 5px;
+    width: 400px;
+    height: 60%;
+    background-color: #EBF8FA;
+    position: absolute;
+    top: 20%;
+    right: 5%;
+}
+
+.login_user {
+    position: relative;
+    top: 5%;
+    left: 12%;
+}
+
+#firstname {
+    font-size: 0.8em;
+    width: 65%;
+    height: 2.9em;
+    border-radius: 5px;
+    border: 1px solid #c8cccf;
+    color: black;
+    outline: 0;
+    background-color: transparent;
+}
+
+#firstname2 {
+    font-size: 0.8em;
+    width: 40%;
+    height: 2.9em;
+    border-radius: 5px;
+    border: 1px solid #c8cccf;
+    color: black;
+    outline: 0;
+    background-color: transparent;
+}
+
+#password {
+    font-size: 0.8em;
+    height: 2.9em;
+    width: 65%;
+    border-radius: 5px;
+    border: 1px solid #c8cccf;
+    color: black;
+    outline: 0;
+    background-color: transparent;
+}
+
+.login_bottom {
+    text-align: center;
+    color: grey;
+    font-size: smaller;
+}
